@@ -1,0 +1,743 @@
+﻿Log file open, 04/24/18 12:14:46
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Stuff
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1391025418) SRandInit(1391025418).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.196020
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = true  - Libcurl will use HTTP proxy
+LogInit:  - HttpProxyAddress = '127.0.0.1:52796'
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Users/1880105.NT_DOMAIN/Desktop/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.24-16.14.48:313][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.24-16.14.48:313][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.24-16.14.48:514][  0]LogInit: Computer: JMH-RM116-06
+[2018.04.24-16.14.48:514][  0]LogInit: User: 1880105
+[2018.04.24-16.14.48:514][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.24-16.14.48:514][  0]LogInit: High frequency timer resolution =2.923056 MHz
+[2018.04.24-16.14.48:514][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.04.24-16.14.48:514][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.24-16.14.48:514][  0]LogMemory: Process Physical Memory: 273.22 MB used, 273.22 MB peak
+[2018.04.24-16.14.48:514][  0]LogMemory: Process Virtual Memory: 272.78 MB used, 272.78 MB peak
+[2018.04.24-16.14.48:514][  0]LogMemory: Physical Memory: 2801.60 MB used,  5290.42 MB free, 8092.02 MB total
+[2018.04.24-16.14.48:514][  0]LogMemory: Virtual Memory: 619.12 MB used,  5290.42 MB free, 8388608.00 MB total
+[2018.04.24-16.14.49:097][  0]LogInit: Using OS detected language (en-US).
+[2018.04.24-16.14.49:097][  0]LogInit: Using OS detected locale (en-US).
+[2018.04.24-16.14.49:460][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.04.24-16.14.51:920][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.04.24-16.14.51:920][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.04.24-16.14.51:920][  0]LogInit: Setting process to DPI aware
+[2018.04.24-16.14.52:064][  0]LogWindows: Failed to load 'shcore.dll' (GetLastError=126)
+[2018.04.24-16.14.52:064][  0]LogWindows: File 'shcore.dll' does not exist
+[2018.04.24-16.14.52:064][  0]LogInit: Setting process to DPI aware
+[2018.04.24-16.15.05:596][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.24-16.15.05:654][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.04.24-16.15.05:654][  0]LogD3D11RHI:       2092/0/3790 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.04.24-16.15.05:654][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.24-16.15.05:661][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.24-16.15.05:662][  0]LogD3D11RHI:     GPU DeviceId: 0x412 (for the marketing name, search the web for "GPU Device Id")
+[2018.04.24-16.15.05:662][  0]LogWindows: EnumDisplayDevices:
+[2018.04.24-16.15.05:662][  0]LogWindows:    0. 'Intel(R) HD Graphics 4600' (P:1 D:1)
+[2018.04.24-16.15.05:662][  0]LogWindows:    1. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.04.24-16.15.05:662][  0]LogWindows:    2. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.04.24-16.15.05:662][  0]LogWindows:    3. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.04.24-16.15.05:662][  0]LogWindows:    4. 'RDPDD Chained DD' (P:0 D:0)
+[2018.04.24-16.15.05:662][  0]LogWindows:    5. 'RDP Encoder Mirror Driver' (P:0 D:0)
+[2018.04.24-16.15.05:663][  0]LogWindows:    6. 'RDP Reflector Display Driver' (P:0 D:0)
+[2018.04.24-16.15.05:663][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.04.24-16.15.05:663][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 4600
+[2018.04.24-16.15.05:663][  0]LogD3D11RHI:   Driver Version: 10.18.14.4170 (internal:10.18.14.4170, unified:10.18.14.4170)
+[2018.04.24-16.15.05:663][  0]LogD3D11RHI:      Driver Date: 3-16-2015
+[2018.04.24-16.15.05:663][  0]LogRHI: Texture pool is 2791 MB (70% of 3987 MB)
+[2018.04.24-16.15.05:679][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.24-16.15.05:693][  0]LogD3D11RHI: GPU Timing Frequency: 27.000000 (Debug: 2 2)
+[2018.04.24-16.15.05:693][  0]LogShaderCompilers: Guid format shader working directory is 12 characters bigger than the processId version (../../../../../Documents/Unreal Projects/Stuff/Intermediate/Shaders/WorkingDirectory/4388/).
+[2018.04.24-16.15.05:693][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/1880105.NT_DOMAIN/AppData/Local/Temp/UnrealShaderWorkingDir/58C675DE40E8158BFFB08AA9A59ACAB0/'.
+[2018.04.24-16.15.05:693][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.24-16.15.10:430][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.24-16.15.10:483][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.24-16.15.10:537][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.24-16.15.10:591][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.24-16.15.10:649][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.24-16.15.10:702][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.24-16.15.10:756][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.24-16.15.10:808][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.24-16.15.10:854][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.24-16.15.10:907][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.24-16.15.10:964][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.24-16.15.11:017][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.24-16.15.11:070][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.24-16.15.11:121][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.24-16.15.11:225][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.24-16.15.11:225][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.24-16.15.11:282][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.24-16.15.11:323][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.24-16.15.11:702][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.24-16.15.11:728][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.24-16.15.11:778][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.24-16.15.11:828][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.24-16.15.11:879][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.24-16.15.11:935][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.24-16.15.11:935][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.24-16.15.12:598][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.24-16.15.20:794][  0]LogDerivedDataCache: Loaded boot cache 8.19s 78MB C:/Users/1880105.NT_DOMAIN/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.24-16.15.20:794][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/1880105.NT_DOMAIN/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.04.24-16.15.20:794][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Documents/Unreal Projects/Stuff/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.24-16.15.20:794][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.24-16.15.20:794][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Documents/Unreal Projects/Stuff/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.24-16.15.20:794][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.24-16.15.20:959][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.24-16.15.20:970][  0]LogDerivedDataCache: Using Local data cache path C:/Users/1880105.NT_DOMAIN/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.24-16.15.20:983][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.24-16.15.20:984][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.24-16.15.20:994][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.24-16.15.20:994][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.24-16.15.25:058][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.24-16.15.26:516][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.24-16.15.26:557][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.24-16.15.26:557][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.24-16.15.26:557][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.24-16.15.26:557][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.24-16.15.26:557][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.24-16.15.26:609][  0]LogNetVersion: Stuff , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3335197438)
+[2018.04.24-16.15.27:248][  0]LogAssetRegistry: FAssetRegistry took 0.0241 seconds to start up
+[2018.04.24-16.15.29:495][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.101499 seconds
+[2018.04.24-16.15.29:502][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.04.24-16.15.29:502][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.04.24-16.15.29:502][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.24-16.15.29:547][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.04.24-16.16.00:647][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.24-16.16.00:683][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.24-16.16.01:928][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.04.24-16.16.02:864][  0]SourceControl: Source control is disabled
+[2018.04.24-16.16.02:864][  0]SourceControl: Source control is disabled
+[2018.04.24-16.16.02:913][  0]SourceControl: Source control is disabled
+[2018.04.24-16.16.02:983][  0]SourceControl: Source control is disabled
+[2018.04.24-16.16.04:088][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.24-16.16.04:358][  0]LogOcInput: OculusInput pre-init called
+[2018.04.24-16.16.04:803][  0]LogEngine: Initializing Engine...
+[2018.04.24-16.16.04:805][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.24-16.16.05:955][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.24-16.16.05:955][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.24-16.16.06:110][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.24-16.16.06:165][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-16.16.06:247][  0]LogInit: FAudioDevice initialized.
+[2018.04.24-16.16.06:470][  0]LogDerivedDataCache: Saved boot cache 0.22s 78MB C:/Users/1880105.NT_DOMAIN/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.04.24-16.16.06:484][  0]LogInit: Texture streaming: Enabled
+[2018.04.24-16.16.06:658][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.24-16.16.06:812][  0]LogInit: Transaction tracking system initialized
+[2018.04.24-16.16.07:268][  0]BlueprintLog: New page: Editor Load
+[2018.04.24-16.16.08:830][  0]LocalizationService: Localization service is disabled
+[2018.04.24-16.16.13:655][  0]LogConsoleResponse: Display: 
+[2018.04.24-16.16.18:553][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1880105.NT_DOMAIN/Documents/Unreal Projects/Stuff/Content/' took 0.05s
+[2018.04.24-16.16.18:553][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.24-16.16.18:579][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.24-16.16.18:613][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.24-16.16.23:451][  0]SourceControl: Source control is disabled
+[2018.04.24-16.16.23:484][  0]Cmd: MAP LOAD FILE="../../../../../Documents/Unreal Projects/Stuff/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.24-16.16.23:493][  0]LightingResults: New page: Lighting Build
+[2018.04.24-16.16.23:598][  0]MapCheck: New page: Map Check
+[2018.04.24-16.16.23:599][  0]LightingResults: New page: Lighting Build
+[2018.04.24-16.16.28:818][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-16.16.29:412][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.24-16.16.29:550][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.24-16.16.29:610][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.697ms to complete.
+[2018.04.24-16.16.29:610][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 6.131
+[2018.04.24-16.16.31:399][  0]LogCollectionManager: Loaded 0 collections in 0.002009 seconds
+[2018.04.24-16.16.31:562][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1880105.NT_DOMAIN/Documents/Unreal Projects/Stuff/Saved/Collections/' took 0.01s
+[2018.04.24-16.16.31:562][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1880105.NT_DOMAIN/Documents/Unreal Projects/Stuff/Content/Developers/1880105/Collections/' took 0.01s
+[2018.04.24-16.16.31:562][  0]LogFileCache: Scanning file cache for directory 'C:/Users/1880105.NT_DOMAIN/Documents/Unreal Projects/Stuff/Content/Collections/' took 0.01s
+[2018.04.24-16.16.31:562][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.24-16.16.31:584][  0]LogContentBrowser: Native class hierarchy populated in 0.0095 seconds. Added 2363 classes and 519 folders.
+[2018.04.24-16.16.31:733][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.24-16.16.34:163][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.24-16.16.34:284][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.04.24-16.16.34:558][  0]LogSlate: Took 0.016812 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.24-16.16.34:579][  0]LogSlate: Took 0.018910 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.24-16.16.34:603][  0]LogSlate: Took 0.016727 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.24-16.16.35:081][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 9 NumSamples 1 (Frame:1).
+[2018.04.24-16.16.35:940][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.04.24-16.16.35:940][  0]LogLoad: (Engine Initialization) Total time: 136.30 seconds
+[2018.04.24-16.16.35:940][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.24-16.16.35:940][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.04.24-16.16.36:065][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.04.24-16.16.36:219][  0]LogSlate: Took 0.018208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-16.16.36:537][  3]LogAssetRegistry: Asset discovery search completed in 69.3027 seconds
+[2018.04.24-16.16.36:539][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.24-16.16.36:539][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000046 seconds (updated 0 objects)
+[2018.04.24-16.16.37:006][ 25]LogSlate: Took 0.000215 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-16.16.53:503][699]LogSlate: Took 0.000156 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.04.24-16.16.54:215][699]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.04.24-16.16.56:582][699]LogSlate: Took 0.026700 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.24-16.16.56:840][700]LogSlate: Took 0.017141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.24-16.24.36:588][714]BlueprintLog: New page: Compile GobController
+[2018.04.24-16.26.24:310][399]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonBP/Blueprints/Goblin/BTTask_BlueprintBase_New.
+[2018.04.24-16.27.05:167][568]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation.SKEL_GetRoamLocation_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Goblin/BTTask_BlueprintBase_New.PackageMetaData'
+[2018.04.24-16.27.05:167][568]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation.GetRoamLocation_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Goblin/BTTask_BlueprintBase_New.PackageMetaData'
+[2018.04.24-16.27.05:407][568]LogSavePackage: Save=127.81ms
+[2018.04.24-16.27.05:408][568]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GetRoamLocation20CC37D74B968D17974B0690403BF461.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Content/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation.uasset'
+[2018.04.24-16.27.05:452][568]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Content/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation.uasset
+[2018.04.24-16.27.05:769][569]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation.
+[2018.04.24-16.27.31:816][706]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.020
+[2018.04.24-16.27.31:886][706]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GobController] ([1] browsable assets)...
+[2018.04.24-16.27.31:886][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GobController]
+[2018.04.24-16.27.32:143][706]LogSavePackage: Save=54.77ms
+[2018.04.24-16.27.32:143][706]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GobController_Auto19D13321A4E0D02F91DCCAEBE67DFCCD0.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobController_Auto1.uasset'
+[2018.04.24-16.27.32:158][706]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobController_Auto1.uasset
+[2018.04.24-16.27.32:159][706]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GobTree] ([1] browsable assets)...
+[2018.04.24-16.27.32:159][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GobTree]
+[2018.04.24-16.27.32:190][706]LogSavePackage: Save=25.89ms
+[2018.04.24-16.27.32:190][706]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GobTree_Auto1BAE995F84D31AE229426F9BE0DE9B452.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobTree_Auto1.uasset'
+[2018.04.24-16.27.32:191][706]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobTree_Auto1.uasset
+[2018.04.24-16.27.32:192][706]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GobBoard] ([1] browsable assets)...
+[2018.04.24-16.27.32:192][706]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GobBoard]
+[2018.04.24-16.27.32:203][706]LogSavePackage: Save=5.41ms
+[2018.04.24-16.27.32:203][706]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GobBoard_Auto15515F2A6430F6C79D8B2318DDA630382.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobBoard_Auto1.uasset'
+[2018.04.24-16.27.32:204][706]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobBoard_Auto1.uasset
+[2018.04.24-16.27.32:204][706]LogFileHelpers: Auto-saving content packages took 0.387
+[2018.04.24-16.32.19:275][ 44]LogSlate: Took 0.018406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.04.24-16.32.32:459][ 45]BlueprintLog: New page: Compile GetRoamLocation
+[2018.04.24-16.32.32:481][ 45]LogBlueprint: Error: [Compiler GetRoamLocation] The current value of the ' Key ' pin is invalid: 'Key' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2018.04.24-16.32.32:514][ 45]LogBlueprint: Warning: [Compiler GetRoamLocation] [1092.79] Compile of GetRoamLocation failed. 1 Fatal Issue(s) 0 Warning(s) [in 54 ms] (/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation.GetRoamLocation)
+[2018.04.24-16.36.19:975][310]LogBehaviorTree: Warning: Can't initialize task: BTTask_MoveTo_0, make sure that behavior tree specifies blackboard asset!
+[2018.04.24-16.36.52:212][206]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Goblin/GobBoard" FILE="../../../../../Documents/Unreal Projects/Stuff/Content/ThirdPersonBP/Blueprints/Goblin/GobBoard.uasset" SILENT=true
+[2018.04.24-16.36.52:277][206]LogSavePackage: Save=7.48ms
+[2018.04.24-16.36.52:278][206]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GobBoard799249D5410CC0032488D7A9E0AEF71B.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Content/ThirdPersonBP/Blueprints/Goblin/GobBoard.uasset'
+[2018.04.24-16.36.52:284][206]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Content/ThirdPersonBP/Blueprints/Goblin/GobBoard.uasset
+[2018.04.24-16.37.36:379][269]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.024
+[2018.04.24-16.37.36:380][269]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GobTree] ([1] browsable assets)...
+[2018.04.24-16.37.36:380][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GobTree]
+[2018.04.24-16.37.36:399][269]LogSavePackage: Save=11.52ms
+[2018.04.24-16.37.36:399][269]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GobTree_Auto2889D846943D99F7C5DDD7B9929437E1D.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobTree_Auto2.uasset'
+[2018.04.24-16.37.36:399][269]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobTree_Auto2.uasset
+[2018.04.24-16.37.36:400][269]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation] ([1] browsable assets)...
+[2018.04.24-16.37.36:400][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation]
+[2018.04.24-16.37.36:423][269]LogSavePackage: Save=18.20ms
+[2018.04.24-16.37.36:423][269]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GetRoamLocation_Auto229DF08D449D0F2176771B5B142024EEF.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation_Auto2.uasset'
+[2018.04.24-16.37.36:424][269]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation_Auto2.uasset
+[2018.04.24-16.37.36:424][269]LogFileHelpers: Auto-saving content packages took 0.044
+[2018.04.24-16.44.17:712][641]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Blueprints/Goblin/GobTree" FILE="../../../../../Documents/Unreal Projects/Stuff/Content/ThirdPersonBP/Blueprints/Goblin/GobTree.uasset" SILENT=true
+[2018.04.24-16.44.17:737][641]LogSavePackage: Save=16.34ms
+[2018.04.24-16.44.17:737][641]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GobTree003C64954B3133FDED2B8E9C1A54AB92.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Content/ThirdPersonBP/Blueprints/Goblin/GobTree.uasset'
+[2018.04.24-16.44.17:745][641]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Content/ThirdPersonBP/Blueprints/Goblin/GobTree.uasset
+[2018.04.24-16.46.15:336][950]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ThirdPersonBP/Blueprints/Goblin/BTTask_BlueprintBase_New.
+[2018.04.24-16.46.58:620][122]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Goblin/GetPlayerLocation.SKEL_GetPlayerLocation_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Goblin/BTTask_BlueprintBase_New.PackageMetaData'
+[2018.04.24-16.46.58:621][122]LogMetaData: Removing '/Game/ThirdPersonBP/Blueprints/Goblin/GetPlayerLocation.GetPlayerLocation_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/Goblin/BTTask_BlueprintBase_New.PackageMetaData'
+[2018.04.24-16.46.58:732][122]LogSavePackage: Save=93.87ms
+[2018.04.24-16.46.58:732][122]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GetPlayerLocationB609CEE44B72893A06D9A7916D43272C.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Content/ThirdPersonBP/Blueprints/Goblin/GetPlayerLocation.uasset'
+[2018.04.24-16.46.58:734][122]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Content/ThirdPersonBP/Blueprints/Goblin/GetPlayerLocation.uasset
+[2018.04.24-16.46.58:976][127]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ThirdPersonBP/Blueprints/Goblin/GetPlayerLocation.
+[2018.04.24-16.47.55:854][823]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.024
+[2018.04.24-16.47.55:856][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GobController] ([1] browsable assets)...
+[2018.04.24-16.47.55:856][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GobController]
+[2018.04.24-16.47.55:909][823]LogSavePackage: Save=36.90ms
+[2018.04.24-16.47.55:909][823]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GobController_Auto3A234170946D28F5AD9C28895321B106A.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobController_Auto3.uasset'
+[2018.04.24-16.47.55:910][823]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobController_Auto3.uasset
+[2018.04.24-16.47.55:910][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GobTree] ([1] browsable assets)...
+[2018.04.24-16.47.55:910][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GobTree]
+[2018.04.24-16.47.55:974][823]LogSavePackage: Save=59.32ms
+[2018.04.24-16.47.55:974][823]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GobTree_Auto3377CB8C24131A85133849090F4BC6BF1.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobTree_Auto3.uasset'
+[2018.04.24-16.47.55:975][823]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobTree_Auto3.uasset
+[2018.04.24-16.47.55:976][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GobBoard] ([1] browsable assets)...
+[2018.04.24-16.47.55:976][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GobBoard]
+[2018.04.24-16.47.55:991][823]LogSavePackage: Save=8.93ms
+[2018.04.24-16.47.55:991][823]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GobBoard_Auto3386261784EC212A56905A996A4D449B0.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobBoard_Auto3.uasset'
+[2018.04.24-16.47.55:992][823]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobBoard_Auto3.uasset
+[2018.04.24-16.47.55:992][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation] ([1] browsable assets)...
+[2018.04.24-16.47.55:992][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation]
+[2018.04.24-16.47.56:016][823]LogSavePackage: Save=17.58ms
+[2018.04.24-16.47.56:016][823]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GetRoamLocation_Auto3D8F9C3A742357FF21144E4912D7FDCEE.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation_Auto3.uasset'
+[2018.04.24-16.47.56:017][823]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation_Auto3.uasset
+[2018.04.24-16.47.56:017][823]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GetPlayerLocation] ([1] browsable assets)...
+[2018.04.24-16.47.56:018][823]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GetPlayerLocation]
+[2018.04.24-16.47.56:032][823]LogSavePackage: Save=9.41ms
+[2018.04.24-16.47.56:032][823]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GetPlayerLocation_Auto374E367E04E87313FB6F6C5BFE6A0A7BC.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GetPlayerLocation_Auto3.uasset'
+[2018.04.24-16.47.56:033][823]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GetPlayerLocation_Auto3.uasset
+[2018.04.24-16.47.56:033][823]LogFileHelpers: Auto-saving content packages took 0.178
+[2018.04.24-16.51.22:663][150]BlueprintLog: New page: Compile GetPlayerLocation
+[2018.04.24-16.54.08:871][806]LogEditorViewport: Clicking on Actor (LMB): AICharacter_C (AICharacter)
+[2018.04.24-16.54.10:875][857]Cmd: DELETE
+[2018.04.24-16.54.10:875][857]Cmd: ACTOR DELETE
+[2018.04.24-16.54.11:270][857]LogEditorActor: Deleted Actor: AICharacter_C
+[2018.04.24-16.54.11:648][857]LogEditorActor: Deleted 1 Actors (0.479 secs)
+[2018.04.24-16.54.16:778][118]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2018.04.24-16.54.21:963][347]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2018.04.24-16.54.25:570][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2018.04.24-16.54.28:155][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2018.04.24-16.54.28:764][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.04.24-16.54.31:631][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2018.04.24-16.54.34:803][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2018.04.24-16.54.37:353][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2018.04.24-16.54.43:570][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2018.04.24-16.54.48:377][648]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2018.04.24-16.54.51:474][798]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2018.04.24-16.54.53:864][912]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2018.04.24-16.54.56:734][ 51]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2018.04.24-16.55.05:430][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (RightArm_StaticMesh)
+[2018.04.24-16.55.08:694][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Linear_Stair_StaticMesh)
+[2018.04.24-16.55.11:540][769]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CubeMesh)
+[2018.04.24-16.55.13:447][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ramp_StaticMesh)
+[2018.04.24-16.55.16:454][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (LeftArm_StaticMesh)
+[2018.04.24-16.55.18:888][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2018.04.24-16.55.24:183][391]LogEditorViewport: Clicking on Actor (LMB): DocumentationActor (DocumentationActor1)
+[2018.04.24-16.55.25:551][456]Cmd: DELETE
+[2018.04.24-16.55.25:551][456]Cmd: ACTOR DELETE
+[2018.04.24-16.55.25:554][456]LogEditorActor: Deleted Actor: DocumentationActor
+[2018.04.24-16.55.25:583][456]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.04.24-16.55.26:130][485]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.04.24-16.55.26:618][502]Cmd: DELETE
+[2018.04.24-16.55.26:618][502]Cmd: ACTOR DELETE
+[2018.04.24-16.55.26:621][502]LogEditorActor: Deleted Actor: TextRenderActor
+[2018.04.24-16.55.26:650][502]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2018.04.24-16.55.41:909][287]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.24-16.55.42:207][287]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-16.55.42:297][287]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.24-16.55.42:309][287]LogPlayLevel: [PlayLevel] Compiling GobController before play...
+[2018.04.24-16.55.42:513][287]LogPlayLevel: [PlayLevel] Compiling GetRoamLocation before play...
+[2018.04.24-16.55.42:615][287]LogPlayLevel: [PlayLevel] Compiling GetPlayerLocation before play...
+[2018.04.24-16.55.42:736][287]LogPlayLevel: PlayLevel: Blueprint regeneration took 439 ms (3 blueprints)
+[2018.04.24-16.55.42:850][287]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 24, 2018, 8:55:42 AM)
+[2018.04.24-16.55.42:861][287]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-16.55.43:004][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.142720s)
+[2018.04.24-16.55.43:017][287]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-16.55.43:017][287]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2018.04.24-16.55.43:028][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.166744s)
+[2018.04.24-16.55.43:080][287]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-16.55.43:093][287]LogInit: FAudioDevice initialized.
+[2018.04.24-16.55.43:247][287]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-16.55.43:671][287]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-12.55.43
+[2018.04.24-16.55.43:705][287]LogWorld: Bringing up level for play took: 0.047309
+[2018.04.24-16.55.43:959][287]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.04.24-16.55.44:038][287]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 1.219
+[2018.04.24-16.55.44:051][287]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-16.55.50:541][646]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-16.55.50:678][646]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-16.56.01:960][232]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2018.04.24-16.56.09:664][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.24-16.56.10:944][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Bump_StaticMesh)
+[2018.04.24-16.56.15:237][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.04.24-16.56.47:454][315]MapCheck: New page: Map Check
+[2018.04.24-16.56.47:560][315]LightingResults: New page: Lighting Build - Apr 24, 2018, 8:56:47 AM
+[2018.04.24-16.56.47:896][315]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.04.24-16.56.47:965][315]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.04.24-16.56.48:158][315]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.04.24-16.56.50:497][315]LogSwarmInterface: Error: [TryOpenConnection] Waiting for the agent to start up ...
+[2018.04.24-16.56.50:739][315]LogSwarmInterface: Error: System.Net.Sockets.SocketException (0x80004005): No connection could be made because the target machine actively refused it 127.0.0.1:8008
+
+Server stack trace: 
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.Sockets.Socket.Connect(EndPoint remoteEP)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket(EndPoint ipEndPoint)
+   at System.Runtime.Remoting.Channels.RemoteConnection.CreateNewSocket()
+   at System.Runtime.Remoting.Channels.SocketCache.GetSocket(String machinePortAndSid, Boolean openNew)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.SendRequestWithRetry(IMessage msg, ITransportHeaders requestHeaders, Stream requestStream)
+   at System.Runtime.Remoting.Channels.Tcp.TcpClientTransportSink.AsyncProcessRequest(IClientChannelSinkStack sinkStack, IMessage msg, ITransportHeaders headers, Stream stream)
+   at System.Runtime.Remoting.Channels.BinaryClientFormatterSink.AsyncProcessMessage(IMessage msg, IMessageSink replySink)
+
+Exception rethrown at [0]: 
+   at System.Runtime.Remoting.Proxies.RealProxy.HandleReturnMessage(IMessage reqMsg, IMessage retMsg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at NSwarm.IAgentInterfaceWrapper.MethodDelegate.EndInvoke(Hashtable& OutParameters, IAsyncResult result)
+   at NSwarm.FSwarmInterface.TryOpenConnection(FConnectionCallback CallbackFunc, IntPtr CallbackData, ELogFlags LoggingFlags)
+[2018.04.24-16.56.55:903][315]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.04.24-16.56.55:903][315]LogSwarmInterface: [TryOpenConnection] Local Process ID is 4388
+[2018.04.24-16.57.05:256][315]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.04.24-16.57.05:256][315]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.04.24-16.57.05:256][315]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.04.24-16.57.05:256][315]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.04.24-16.57.05:256][315]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.04.24-16.57.06:049][315]LogEditorBuildUtils: Build time 0:18
+[2018.04.24-16.57.15:836][560]Job is a success!
+[2018.04.24-16.57.15:996][561]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.019s
+[2018.04.24-16.57.15:996][561]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.04.24-16.57.15:996][561]LogVolumetricLightmapImport:      BrickData 245x5x5 = 0.2Mb
+[2018.04.24-16.57.15:996][561]LogVolumetricLightmapImport:      Bricks at Level
+[2018.04.24-16.57.15:996][561]LogVolumetricLightmapImport:          0: 2.0% covering 100.0% of volume
+[2018.04.24-16.57.15:996][561]LogVolumetricLightmapImport:          1: 8.2% covering 6.3% of volume
+[2018.04.24-16.57.15:996][561]LogVolumetricLightmapImport:          2: 89.8% covering 1.1% of volume
+[2018.04.24-16.57.17:244][561]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 1024X512)
+[2018.04.24-16.57.17:244][561]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 1024X1024)
+[2018.04.24-16.57.17:244][561]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 1024X1024)
+[2018.04.24-16.57.17:244][561]LogTexture: Display: Building textures: SkyOcclusion0_2 (AutoDXT, 512X256)
+[2018.04.24-16.57.17:244][561]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 512X512)
+[2018.04.24-16.57.17:244][561]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 512X512)
+[2018.04.24-16.57.17:244][561]LogTexture: Display: Building textures: SkyOcclusion0_3 (AutoDXT, 64X32)
+[2018.04.24-16.57.17:244][561]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 64X64)
+[2018.04.24-16.57.17:244][561]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 64X64)
+[2018.04.24-16.57.17:445][561]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 32X32)
+[2018.04.24-16.57.17:516][561]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2018.04.24-16.57.18:166][561]Lightmass on JMH-RM116-06: 8.17 sec total, 275 ms importing, 19 ms setup, 1.07 sec photons, 6.74 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 26.9 sec total, 10.7 sec processing.
+[2018.04.24-16.57.18:215][561]LogStaticLightingSystem: Illumination: 30.5 sec (1.14 sec encoding lightmaps, 265 ms encoding shadowmaps)
+[2018.04.24-16.57.18:215][561]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2018.04.24-16.57.18:215][561]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.04.24-16.57.19:283][561]DumpUnbuiltLightIteractions
+[2018.04.24-16.57.19:283][561]Lights with unbuilt interactions: 0
+[2018.04.24-16.57.19:283][561]
+[2018.04.24-16.57.19:283][561]Primitives with unbuilt interactions: 0
+[2018.04.24-16.57.19:293][562]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.04.24-16.57.19:293][562]MapCheck: New page: ThirdPersonExampleMap - Apr 24, 2018, 8:57:19 AM
+[2018.04.24-16.57.19:448][562]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 155.27ms to complete.
+[2018.04.24-16.57.22:439][681]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.24-16.57.22:485][681]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-16.57.22:491][681]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-16.57.22:491][681]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 24, 2018, 8:57:22 AM)
+[2018.04.24-16.57.22:492][681]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-16.57.22:516][681]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023990s)
+[2018.04.24-16.57.22:517][681]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-16.57.22:517][681]LogPlayLevel: PIE: World Init took: (0.001150s)
+[2018.04.24-16.57.22:517][681]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025671s)
+[2018.04.24-16.57.22:541][681]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-16.57.22:553][681]LogInit: FAudioDevice initialized.
+[2018.04.24-16.57.22:598][681]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-16.57.22:601][681]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-12.57.22
+[2018.04.24-16.57.22:768][681]LogWorld: Bringing up level for play took: 0.168554
+[2018.04.24-16.57.22:773][681]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.055
+[2018.04.24-16.57.22:781][681]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-16.57.33:964][333]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-16.57.34:039][333]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-16.58.20:781][505]LogSavePackage: Save=242.04ms
+[2018.04.24-16.58.20:781][505]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/ThirdPersonExampleMap_Auto4C9ED973F42F4D1D0119D8CB3AAA2A42A.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2018.04.24-16.58.20:782][505]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap
+[2018.04.24-16.58.20:806][505]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.391
+[2018.04.24-16.58.20:806][505]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.391
+[2018.04.24-16.58.20:808][505]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData] ([1] browsable assets)...
+[2018.04.24-16.58.20:808][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData]
+[2018.04.24-16.58.20:908][505]LogSavePackage: Save=32.10ms
+[2018.04.24-16.58.20:908][505]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/ThirdPersonExampleMap_BuiltData_9CDC719B45222FCD9BD52C92A2D1A108.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto4.uasset'
+[2018.04.24-16.58.20:909][505]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData_Auto4.uasset
+[2018.04.24-16.58.20:909][505]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GobController] ([1] browsable assets)...
+[2018.04.24-16.58.20:909][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GobController]
+[2018.04.24-16.58.20:955][505]LogSavePackage: Save=34.33ms
+[2018.04.24-16.58.20:955][505]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GobController_Auto44B778BA24192C344C3828692EEF6EF1F.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobController_Auto4.uasset'
+[2018.04.24-16.58.20:956][505]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobController_Auto4.uasset
+[2018.04.24-16.58.20:956][505]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GobTree] ([1] browsable assets)...
+[2018.04.24-16.58.20:956][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GobTree]
+[2018.04.24-16.58.20:982][505]LogSavePackage: Save=15.57ms
+[2018.04.24-16.58.20:982][505]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GobTree_Auto45DDA03314E99D869C527A3B9BC86D457.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobTree_Auto4.uasset'
+[2018.04.24-16.58.20:984][505]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobTree_Auto4.uasset
+[2018.04.24-16.58.20:984][505]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation] ([1] browsable assets)...
+[2018.04.24-16.58.20:984][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation]
+[2018.04.24-16.58.21:010][505]LogSavePackage: Save=20.51ms
+[2018.04.24-16.58.21:011][505]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GetRoamLocation_Auto49EF33744400DDB97235368AF96BB7A6B.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation_Auto4.uasset'
+[2018.04.24-16.58.21:013][505]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation_Auto4.uasset
+[2018.04.24-16.58.21:013][505]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GetPlayerLocation] ([1] browsable assets)...
+[2018.04.24-16.58.21:013][505]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GetPlayerLocation]
+[2018.04.24-16.58.21:038][505]LogSavePackage: Save=19.18ms
+[2018.04.24-16.58.21:038][505]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GetPlayerLocation_Auto41C8263EF494F836B986A0787A86E1D40.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GetPlayerLocation_Auto4.uasset'
+[2018.04.24-16.58.21:053][505]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GetPlayerLocation_Auto4.uasset
+[2018.04.24-16.58.21:053][505]LogFileHelpers: Auto-saving content packages took 0.246
+[2018.04.24-16.59.53:533][873]BlueprintLog: New page: Compile GobController
+[2018.04.24-17.00.01:194][664]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.24-17.00.01:222][664]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.00.01:229][664]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-17.00.01:230][664]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 24, 2018, 9:00:01 AM)
+[2018.04.24-17.00.01:230][664]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-17.00.01:276][664]LogPlayLevel: PIE: StaticDuplicateObject took: (0.046476s)
+[2018.04.24-17.00.01:277][664]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-17.00.01:278][664]LogPlayLevel: PIE: World Init took: (0.001312s)
+[2018.04.24-17.00.01:278][664]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.048146s)
+[2018.04.24-17.00.01:304][664]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-17.00.01:315][664]LogInit: FAudioDevice initialized.
+[2018.04.24-17.00.01:355][664]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-17.00.01:358][664]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-13.00.01
+[2018.04.24-17.00.01:359][664]LogWorld: Bringing up level for play took: 0.003556
+[2018.04.24-17.00.01:365][664]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.523
+[2018.04.24-17.00.01:365][664]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.00.10:604][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.00.10:662][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.04.04:904][478]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.24-17.04.04:935][478]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.04.04:943][478]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.24-17.04.04:954][478]LogPlayLevel: [PlayLevel] Compiling GobController before play...
+[2018.04.24-17.04.05:195][478]LogPlayLevel: PlayLevel: Blueprint regeneration took 251 ms (1 blueprints)
+[2018.04.24-17.04.05:195][478]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 24, 2018, 9:04:05 AM)
+[2018.04.24-17.04.05:195][478]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-17.04.05:222][478]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026213s)
+[2018.04.24-17.04.05:223][478]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-17.04.05:223][478]LogPlayLevel: PIE: World Init took: (0.001548s)
+[2018.04.24-17.04.05:224][478]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028246s)
+[2018.04.24-17.04.05:246][478]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-17.04.05:259][478]LogInit: FAudioDevice initialized.
+[2018.04.24-17.04.05:300][478]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-17.04.05:303][478]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-13.04.05
+[2018.04.24-17.04.05:304][478]LogWorld: Bringing up level for play took: 0.003020
+[2018.04.24-17.04.05:309][478]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap 0.446
+[2018.04.24-17.04.05:310][478]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.04.15:047][ 55]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.04.15:127][ 55]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.04.26:653][ 71]LogRenderer: Reallocating scene render targets to support 1208x900 Format 9 NumSamples 1 (Frame:1).
+[2018.04.24-17.04.38:195][735]LogSlate: Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.04.24-17.05.52:423][ 52]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.24-17.05.52:453][ 52]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.05.52:460][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-17.05.52:461][ 52]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 24, 2018, 9:05:52 AM)
+[2018.04.24-17.05.52:461][ 52]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-17.05.52:492][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031465s)
+[2018.04.24-17.05.52:493][ 52]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-17.05.52:493][ 52]LogPlayLevel: PIE: World Init took: (0.001206s)
+[2018.04.24-17.05.52:494][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033091s)
+[2018.04.24-17.05.52:519][ 52]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-17.05.52:529][ 52]LogInit: FAudioDevice initialized.
+[2018.04.24-17.05.52:572][ 52]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-17.05.52:575][ 52]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-13.05.52
+[2018.04.24-17.05.52:576][ 52]LogWorld: Bringing up level for play took: 0.004080
+[2018.04.24-17.05.52:582][ 52]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.291
+[2018.04.24-17.05.52:582][ 52]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.05.59:576][458]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.05.59:638][458]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.10.56:688][468]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.025
+[2018.04.24-17.10.56:690][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GobController] ([1] browsable assets)...
+[2018.04.24-17.10.56:690][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GobController]
+[2018.04.24-17.10.56:736][468]LogSavePackage: Save=33.14ms
+[2018.04.24-17.10.56:736][468]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GobController_Auto526D21F734336B382EE098C93CAA7393F.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobController_Auto5.uasset'
+[2018.04.24-17.10.56:847][468]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobController_Auto5.uasset
+[2018.04.24-17.10.56:847][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GobTree] ([1] browsable assets)...
+[2018.04.24-17.10.56:847][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GobTree]
+[2018.04.24-17.10.56:871][468]LogSavePackage: Save=14.70ms
+[2018.04.24-17.10.56:871][468]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GobTree_Auto50077408F4AA792716703FEBD7CA508B1.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobTree_Auto5.uasset'
+[2018.04.24-17.10.56:872][468]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobTree_Auto5.uasset
+[2018.04.24-17.10.56:872][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GobBoard] ([1] browsable assets)...
+[2018.04.24-17.10.56:872][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GobBoard]
+[2018.04.24-17.10.56:883][468]LogSavePackage: Save=4.89ms
+[2018.04.24-17.10.56:883][468]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GobBoard_Auto512E624BC4ACB5094CC733CB47E086A8C.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobBoard_Auto5.uasset'
+[2018.04.24-17.10.56:884][468]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GobBoard_Auto5.uasset
+[2018.04.24-17.10.56:884][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation] ([1] browsable assets)...
+[2018.04.24-17.10.56:884][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation]
+[2018.04.24-17.10.56:910][468]LogSavePackage: Save=19.94ms
+[2018.04.24-17.10.56:910][468]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GetRoamLocation_Auto5374E623B4812D75B22A99DB243CCC796.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation_Auto5.uasset'
+[2018.04.24-17.10.56:910][468]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GetRoamLocation_Auto5.uasset
+[2018.04.24-17.10.56:911][468]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/Blueprints/Goblin/GetPlayerLocation] ([1] browsable assets)...
+[2018.04.24-17.10.56:911][468]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/Blueprints/Goblin/GetPlayerLocation]
+[2018.04.24-17.10.56:937][468]LogSavePackage: Save=18.74ms
+[2018.04.24-17.10.56:937][468]LogSavePackage: Moving '../../../../../Documents/Unreal Projects/Stuff/Saved/GetPlayerLocation_Auto56317CE8242843520FEA1A28788748A7F.tmp' to '../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GetPlayerLocation_Auto5.uasset'
+[2018.04.24-17.10.56:938][468]LogSavePackage: Display: Finished SavePackage ../../../../../Documents/Unreal Projects/Stuff/Saved/Autosaves/Game/ThirdPersonBP/Blueprints/Goblin/GetPlayerLocation_Auto5.uasset
+[2018.04.24-17.10.56:938][468]LogFileHelpers: Auto-saving content packages took 0.248
+[2018.04.24-17.11.41:741][611]BlueprintLog: New page: Compile GetRoamLocation
+[2018.04.24-17.11.44:190][889]BlueprintLog: New page: Compile GetRoamLocation
+[2018.04.24-17.11.46:199][ 12]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.24-17.11.46:224][ 12]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.11.46:233][ 12]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.24-17.11.46:233][ 12]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 24, 2018, 9:11:46 AM)
+[2018.04.24-17.11.46:233][ 12]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-17.11.46:263][ 12]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030354s)
+[2018.04.24-17.11.46:265][ 12]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-17.11.46:266][ 12]LogPlayLevel: PIE: World Init took: (0.002422s)
+[2018.04.24-17.11.46:266][ 12]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.033293s)
+[2018.04.24-17.11.46:289][ 12]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-17.11.46:302][ 12]LogInit: FAudioDevice initialized.
+[2018.04.24-17.11.46:342][ 12]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-17.11.46:345][ 12]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-13.11.46
+[2018.04.24-17.11.46:346][ 12]LogWorld: Bringing up level for play took: 0.003734
+[2018.04.24-17.11.46:354][ 12]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.55
+[2018.04.24-17.11.46:354][ 12]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.11.48:434][130]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.11.48:492][130]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.16.00:581][949]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.04.24-17.16.00:612][949]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.16.00:620][949]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.24-17.16.00:622][949]LogPlayLevel: [PlayLevel] Compiling GetPlayerLocation before play...
+[2018.04.24-17.16.00:750][949]LogPlayLevel: PlayLevel: Blueprint regeneration took 130 ms (1 blueprints)
+[2018.04.24-17.16.00:750][949]PIE: New page: PIE session: ThirdPersonExampleMap (Apr 24, 2018, 9:16:00 AM)
+[2018.04.24-17.16.00:750][949]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.04.24-17.16.00:779][949]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028671s)
+[2018.04.24-17.16.00:781][949]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.04.24-17.16.00:781][949]LogPlayLevel: PIE: World Init took: (0.001879s)
+[2018.04.24-17.16.00:781][949]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030918s)
+[2018.04.24-17.16.00:805][949]LogInit: XAudio2 using 'Speakers / Headphones (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.24-17.16.00:816][949]LogInit: FAudioDevice initialized.
+[2018.04.24-17.16.00:861][949]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.04.24-17.16.00:864][949]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2018.04.24-13.16.00
+[2018.04.24-17.16.00:866][949]LogWorld: Bringing up level for play took: 0.004378
+[2018.04.24-17.16.00:871][949]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap -0.057
+[2018.04.24-17.16.00:871][949]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.16.13:951][694]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.16.14:012][694]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.04.24-17.19.47:618][612]LogWindows: Windows GetLastError: The operation completed successfully. (0)
